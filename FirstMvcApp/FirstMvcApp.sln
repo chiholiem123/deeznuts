@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorWebApp", "ColorWebApp\ColorWebApp.csproj", "{A030EA4A-FE2C-4C29-BEB3-6C90EB82467F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcApp", "MyMvcApp\MyMvcApp.csproj", "{981B558A-7665-4CF8-9EC0-787FC077E4FA}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A030EA4A-FE2C-4C29-BEB3-6C90EB82467F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A030EA4A-FE2C-4C29-BEB3-6C90EB82467F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A030EA4A-FE2C-4C29-BEB3-6C90EB82467F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A030EA4A-FE2C-4C29-BEB3-6C90EB82467F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{981B558A-7665-4CF8-9EC0-787FC077E4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{981B558A-7665-4CF8-9EC0-787FC077E4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{981B558A-7665-4CF8-9EC0-787FC077E4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
